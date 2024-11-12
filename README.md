@@ -1,5 +1,6 @@
 # Foundation-for-Artificial-Intelligence
-1. I Want to Withdraw All My Savings in Cash!
+Number 1
+I Want to Withdraw All My Savings in Cash!
 As we know, in Indonesia there are several denominations of money as follows:
 Paper Money:
 Rp 100,000
@@ -29,7 +30,8 @@ The output is telling the bank:
 
 
 
-2. What is the minimum, median, max, and average salary for employee by Married Description and Gender. Hints: use agg function.
+Number 2
+What is the minimum, median, max, and average salary for employee by Married Description and Gender. Hints: use agg function.
 To find top-5 reason of termination
 To find the highest number of employee by Recruitment Source that 'Exceeds' the
 To find Performance Score? Hints: Use filter for Performance Score first. Don't forget to sort_values.
